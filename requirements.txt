@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+chromadb
+pdfplumber
+Gemini API Key
