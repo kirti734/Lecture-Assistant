@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Streamlit secrets and config
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# System files
+*.log
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Others
+*.pyc
+*.pyo
+*.pyd
